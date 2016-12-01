@@ -5,7 +5,7 @@
 
 ## Keynote
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/fabpot/the-state-of-symfony-in-the-cloud)  
 ~~Video~~
 
 By [Fabien Potencier](https://connect.sensiolabs.com/profile/fabpot)  
@@ -21,7 +21,7 @@ By [Fabien Potencier](https://connect.sensiolabs.com/profile/fabpot)
   <dd>After several months of discussion, the PHP-FIG (PHP Framework Interop Group) published the PSR-6. Its goal is to enable interoperability between caching systems implementations - a mandatory aspect to improve performance in your applications. At this conference, we will see the benefits and limitations of PSR-6, we will discuss the various existing cache solutions (Doctrine, Stash, php-cache), and I will present the Symfony 3.1 Cache component and its latest improvements in version 3.2.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/nicolasgrekas/psr-6-and-symfony-cache-fast-by-standards-1)  
 ~~Video~~
 
 By [Nicolas Grekas](https://connect.sensiolabs.com/profile/nicolas-grekas)  
@@ -37,7 +37,7 @@ By [Nicolas Grekas](https://connect.sensiolabs.com/profile/nicolas-grekas)
   <dd>FOSUserBundle is evil - and I will explain why. Under this trollish introduction hide a conference about Bundles and how to chose them to avoid spending more time extending them than actually building your application which is why you needed Symfony in the first place and yeah I know this sentence is hard to read, like a project where there is too many Bundles.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://jolicode.github.io/fosuserbundle-conf/)  
 ~~Video~~
 
 By [Damien Alexandre](https://connect.sensiolabs.com/profile/damienalexandre)  
@@ -73,12 +73,12 @@ By [Paweł Jędrzejewski](https://connect.sensiolabs.com/profile/pjedrzejewski)
   <dd>In all our careers at some point we’ll have multiple web applications or services we need to be able to integrate; whether that be as simple as sharing sessions or more complex such as manipulating HTTP responses provided by applications in libraries. Integration is hard but for frameworks, libraries and applications interoperability is an ever increasing goal. In this talk we’ll discuss how we can go further with interoperability to make your life easier: how you can make Drupal, phpBB and eZ Publish integrate with your Symfony web app; how you can use Symfony Components and Zend Framework modules side by side; and about decoupling your applications from any one specific library by depending on interfaces instead of implementations.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/michaelcullum/making-your-applications-work-together-through-interoperability)  
 ~~Video~~
 
 By [Michael Cullum](https://connect.sensiolabs.com/profile/unknownbliss)  
 ![github](icon/github.png) [@michaelcullum](https://github.com/michaelcullum)  
-![twitter](icon/twitter.png) [@unknownblissmc](https://twitter.com/unknownblissmc)
+![twitter](icon/twitter.png) [@michaelcullumuk](https://twitter.com/michaelcullumuk)
 
 ---
 
@@ -114,7 +114,7 @@ By [Jeffrey A. McGuire](https://connect.sensiolabs.com/profile/horncologne)
   <dd>Web development is not just about delivering a response. It is also about writing good code. The state pattern will help you move complexity from being all over your code to one or more state machines. This talk will introduce state machines, show how to identify uses of them and implement them in your Symfony application in an object oriented manner using the Symfony Workflow component.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://slideshare.net/TobiasNyholm/knowing-your-state-machines)  
 ~~Video~~
 
 By [Tobias Nyholm](https://connect.sensiolabs.com/profile/tobias)  
@@ -130,7 +130,7 @@ By [Tobias Nyholm](https://connect.sensiolabs.com/profile/tobias)
   <dd>You cannot improve what you cannot measure. That's why profiling applications should always be the first step before trying to improve its performance. Learn how to spot your applications' bottlenecks and how to adopt profiling into your developer pipeline.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/sgrodzicki/profiling-php-at-symfonycon-berlin-2016)  
 ~~Video~~
 
 By [Sebastian Grodzicki](https://connect.sensiolabs.com/profile/sgrodzicki)  
@@ -162,7 +162,7 @@ By [Kore Nordmann](https://connect.sensiolabs.com/profile/kore)
   <dd>The Command Query Responsibility Segregation pattern, instead of the traditional CRUD, introduce different models for reading and updating the application states. Event Sourcing is the idea that every state of your application can be represented by a sequence of events. Using these two principles as the heart of a system or an application is quite common but can be challenging if we don’t use the right tools or architecture. With a concrete application as example, we’ll go through the architecture, libraries and bundles we can use in a Symfony application in order to apply these patterns.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://slideshare.net/samuelroze/cqrs-and-event-sourcing-in-a-symfony-application)  
 ~~Video~~
 
 By [Samuel ROZE](https://connect.sensiolabs.com/profile/sroze)  
