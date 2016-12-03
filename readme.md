@@ -146,7 +146,7 @@ By [Sebastian Grodzicki](https://connect.sensiolabs.com/profile/sgrodzicki)
   <dd>One of the most difficult challenges in a developers life is finding the "right" abstraction, or at least the best one given the current circumstances. The core problem is that abstraction is a bet on the future development of the software and we know that future is volatile. I will discuss different environments of software development and we find a base for you to decide when and what to abstract.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://qafoo.com/talks/16_12_symfonycon_berlin_when_to_abstract.pdf)  
 ~~Video~~
 
 By [Kore Nordmann](https://connect.sensiolabs.com/profile/kore)  
@@ -193,7 +193,7 @@ However, we can keep Symfony applications alive between requests and vastly impr
 Wait a minute before charging off! When using PHP in this way we have to pay careful attention to session handling, application state and memory leaks. This talk will demonstrate how to develop and configure Symfony applications for this purpose.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://andrewcarteruk.github.io/slides/soup-up-symfony/)  
 ~~Video~~
 
 By [Andrew Carter](https://connect.sensiolabs.com/profile/andrewcarteruk)  
@@ -213,7 +213,7 @@ So too with programming. We have the ability in PHP, as in many languages, to ma
 This talk will make the case that your best way to improve your productivity as a developer is to make your language itself do your work for you. With PHP 7's improved typing support that is now even easier than ever.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](http://www.garfieldtech.com/presentations/sfconberlin2016-code-job/)  
 ~~Video~~
 
 By [Larry Garfield](https://connect.sensiolabs.com/profile/crell)  
@@ -233,7 +233,7 @@ Rewriting the whole application is something your developers would simply love t
 Let's have a look at simple techniques that allow us to transform our legacy application step by step into a modern Symfony application.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://slidr.io/derrabus/modernizing-with-symfony)  
 ~~Video~~
 
 By [Alexander M. Turek](https://connect.sensiolabs.com/profile/derrabus)  
@@ -249,7 +249,7 @@ By [Alexander M. Turek](https://connect.sensiolabs.com/profile/derrabus)
   <dd>Currently I'm working on a flexible deployment pipeline in Jenkins where I can reuse some templates and create new pipelines within minutes. I'd like to present my solution, talk about the basics of Jenkins and explain why it's the better way to deploy with a CI server.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://slideshare.net/cpsitgmbh/symfonycon-berlin-2016-jenkins-deployment-pipelines)  
 ~~Video~~
 
 By [Nicole Cordes](https://connect.sensiolabs.com/profile/ichhabrecht)  
@@ -343,7 +343,7 @@ By [Jules Pietri](https://connect.sensiolabs.com/profile/heah)
 You're coming to SymfonyCon because you are HTTP application developers and I will present you awesome HTTP headers that will help you to mitigate these kind of attacks, just using W3C WebAppSec recommendations.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/romain/http-security-headers-as-a-shield-over-your-application)  
 ~~Video~~
 
 By [Romain Neutron](https://connect.sensiolabs.com/profile/romain)  
@@ -375,7 +375,7 @@ By [Margaret Staples](https://connect.sensiolabs.com/profile/deadlugosi)
   <dd>Does managing YAML, XML or PHP container configurations make you sad? Do you dread making changes to your classes' dependencies for fear of the inevitable container configuration wiring blues? Life doesn't have to be this way! Not if your container supports autowiring, that is. Hear one developer's journey into the wild world of containers, learn how autowiring works, and find out how using autowiring can free you from having to manually configure every dependency.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/simensen/how-i-learned-to-stop-wiring-and-love-autowiring-containers-symfonycon-berlin-2016)  
 ~~Video~~
 
 By [Beau Simensen](https://connect.sensiolabs.com/profile/simensen)  
@@ -391,7 +391,7 @@ By [Beau Simensen](https://connect.sensiolabs.com/profile/simensen)
   <dd>It is believed that the Symfony framework is quite heavy and it can be difficult to develop a website that will be able to work under the high load. It is true, but does this mean that it is impossible to implement a dynamic caching and to update only a small part of entire page as data is updated? This talk will give your an answer to that. It is Varnish, ESI-blocks and load balancing. With hundreds of thousands of unique visitors and million hits a day, we continue to use Symfony, and do not see any problems.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://slideshare.net/lisachenko/handling-10k-requests-per-second-with-symfony-and-varnish)  
 ~~Video~~
 
 By [Alexander Lisachenko](https://connect.sensiolabs.com/profile/lisachenko)  
