@@ -406,3 +406,45 @@ By [Alexander Lisachenko](https://connect.sensiolabs.com/profile/lisachenko)
 
 # Lightning Talks
 
+## Microservice experience in 7 minutes
+
+[Slides](https://slideshare.net/ProjectAcom/lightening-talk-symfony-conference-2016)  
+~~Video~~
+
+By [Stephan Schulze](https://connect.sensiolabs.com/profile/stephan-schulze)  
+![github](icon/github.png) [@nahpeps](https://github.com/nahpeps)  
+![twitter](icon/twitter.png) [@nahpeps](https://twitter.com/nahpeps)
+
+
+---
+
+## Introduction to PandawanNeo4jBundle
+
+~~Slides~~  
+~~Video~~
+
+By [Xavier](https://connect.sensiolabs.com/profile/xavismeh)  
+![github](icon/github.png) [@xavismeh](https://github.com/xavismeh)  
+![twitter](icon/twitter.png) [@xavismeh](https://twitter.com/xavismeh)
+
+---
+
+## CMF 2.0
+
+~~Slides~~  
+~~Video~~
+
+By [Maximilian Berghoff](https://connect.sensiolabs.com/profile/electricmaxxx)  
+![github](icon/github.png) [@ElectricMaxxx](https://github.com/ElectricMaxxx)  
+![twitter](icon/twitter.png) [@ElectricMaxxx](https://twitter.com/ElectricMaxxx)
+
+---
+
+## Talkception
+
+[Slides](https://speakerdeck.com/tgalopin/pecha-kucha-why-you-should-speak-in-public)  
+~~Video~~
+
+By [Titouan Galopin](https://connect.sensiolabs.com/profile/tgalopin)  
+![github](icon/github.png) [@tgalopin](https://github.com/tgalopin)  
+![twitter](icon/twitter.png) [@titouangalopin](https://twitter.com/titouangalopin)
