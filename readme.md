@@ -265,7 +265,7 @@ By [Nicole Cordes](https://connect.sensiolabs.com/profile/ichhabrecht)
   <dd>Apache Kafka is a message broker that offers not only massive scalability and fault tolerance, but also unique guarantees around message ordering and delivery. Relaying billing information, detecting security-related events, storing information at high-throughput - Kafka greatly simplifies it all and gives developers a chance to rethink the data flows between components, moving information interchange into the center of their architectures.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/dzuelke/kafka-will-get-the-message-across-guaranteed)  
 ~~Video~~
 
 By [David Zuelke](https://connect.sensiolabs.com/profile/dzuelke)  
@@ -299,7 +299,7 @@ By [Daniel Espendiller](https://connect.sensiolabs.com/profile/haehnchen)
   <dd>Last year, Symfony 3 was out right before the SymfonyCon. A lot happened! 52 blog posts to help you keep up with all new things, 1200+ pull requests, 2 new versions out… Well I'm sure you missed something. Let's review what happened during last year: basically we'll see and/or discover nice new features that appeared since the last SymfonyCon.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/saro0h/symfonycon-berlin-a-year-of-symfony)  
 ~~Video~~
 
 By [Sarah Khalil](https://connect.sensiolabs.com/profile/saro0h)  
