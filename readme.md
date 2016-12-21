@@ -325,7 +325,7 @@ The focus will be about:
 Also the final may reveal a surprise! Stay tuned ;)</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/heahdude/symfony-forms-one-use-case-many-optimizations)  
 ~~Video~~
 
 By [Jules Pietri](https://connect.sensiolabs.com/profile/heah)  
