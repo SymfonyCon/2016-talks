@@ -6,7 +6,7 @@
 ## Keynote
 
 [Slides](https://speakerdeck.com/fabpot/the-state-of-symfony-in-the-cloud)  
-~~Video~~
+[Video](https://youtu.be/-HRCKmtrELk)
 
 By [Fabien Potencier](https://connect.sensiolabs.com/profile/fabpot)  
 ![github](icon/github.png) [@fabpot](https://github.com/fabpot)  
@@ -22,7 +22,7 @@ By [Fabien Potencier](https://connect.sensiolabs.com/profile/fabpot)
 </dl>
 
 [Slides](https://speakerdeck.com/nicolasgrekas/psr-6-and-symfony-cache-fast-by-standards-1)  
-~~Video~~
+[Video](https://youtu.be/HpmGEgFsmS0)
 
 By [Nicolas Grekas](https://connect.sensiolabs.com/profile/nicolas-grekas)  
 ![github](icon/github.png) [@nicolas-grekas](https://github.com/nicolas-grekas)  
@@ -38,7 +38,7 @@ By [Nicolas Grekas](https://connect.sensiolabs.com/profile/nicolas-grekas)
 </dl>
 
 [Slides](https://jolicode.github.io/fosuserbundle-conf/)  
-~~Video~~
+[Video](https://youtu.be/7gS29a6vfrQ)
 
 By [Damien Alexandre](https://connect.sensiolabs.com/profile/damienalexandre)  
 ![github](icon/github.png) [@damienalexandre](https://github.com/damienalexandre)  
@@ -58,7 +58,7 @@ In this talk I’d like to share everything I have learned during this journey. 
 </dl>
 
 ~~Slides~~  
-~~Video~~
+[Video](https://youtu.be/DeDeRFbe5E4)
 
 By [Paweł Jędrzejewski](https://connect.sensiolabs.com/profile/pjedrzejewski)  
 ![github](icon/github.png) [@pjedrzejewski](https://github.com/pjedrzejewski)  
@@ -74,7 +74,7 @@ By [Paweł Jędrzejewski](https://connect.sensiolabs.com/profile/pjedrzejewski)
 </dl>
 
 [Slides](https://speakerdeck.com/michaelcullum/making-your-applications-work-together-through-interoperability)  
-~~Video~~
+[Video](https://youtu.be/tsf1h30Yaz4)
 
 By [Michael Cullum](https://connect.sensiolabs.com/profile/unknownbliss)  
 ![github](icon/github.png) [@michaelcullum](https://github.com/michaelcullum)  
@@ -99,7 +99,7 @@ Chris Jansen and Jeffrey A. "jam" McGuire present practical, actionable ways to 
 </dl>
 
 ~~Slides~~  
-~~Video~~
+[Video](https://youtu.be/r2dwBLHl8kA)
 
 By [Jeffrey A. McGuire](https://connect.sensiolabs.com/profile/horncologne)  
 ![github](icon/github.png) [@horncologne](https://github.com/horncologne)  
@@ -115,7 +115,7 @@ By [Jeffrey A. McGuire](https://connect.sensiolabs.com/profile/horncologne)
 </dl>
 
 [Slides](https://slideshare.net/TobiasNyholm/knowing-your-state-machines)  
-~~Video~~
+[Video](https://youtu.be/S87111sM7y4)
 
 By [Tobias Nyholm](https://connect.sensiolabs.com/profile/tobias)  
 ![github](icon/github.png) [@Nyholm](https://github.com/Nyholm)  
@@ -131,7 +131,7 @@ By [Tobias Nyholm](https://connect.sensiolabs.com/profile/tobias)
 </dl>
 
 [Slides](https://speakerdeck.com/sgrodzicki/profiling-php-at-symfonycon-berlin-2016)  
-~~Video~~
+[Video](https://youtu.be/GZ26oVwwIOo)
 
 By [Sebastian Grodzicki](https://connect.sensiolabs.com/profile/sgrodzicki)  
 ![github](icon/github.png) [@sgrodzicki](https://github.com/sgrodzicki)  
@@ -147,7 +147,7 @@ By [Sebastian Grodzicki](https://connect.sensiolabs.com/profile/sgrodzicki)
 </dl>
 
 [Slides](https://qafoo.com/talks/16_12_symfonycon_berlin_when_to_abstract.pdf)  
-~~Video~~
+[Video](https://youtu.be/y-PGcssCUDc)
 
 By [Kore Nordmann](https://connect.sensiolabs.com/profile/kore)  
 ![github](icon/github.png) [@kore](https://github.com/kore)  
@@ -163,7 +163,7 @@ By [Kore Nordmann](https://connect.sensiolabs.com/profile/kore)
 </dl>
 
 [Slides](https://slideshare.net/samuelroze/cqrs-and-event-sourcing-in-a-symfony-application)  
-~~Video~~
+[Video](https://youtu.be/IM46mxzdW_A)
 
 By [Samuel ROZE](https://connect.sensiolabs.com/profile/sroze)  
 ![github](icon/github.png) [@sroze](https://github.com/sroze)  
@@ -174,7 +174,7 @@ By [Samuel ROZE](https://connect.sensiolabs.com/profile/sroze)
 ## Symfony Distributions Reloaded 
 
 ~~Slides~~  
-~~Video~~
+[Video](https://youtu.be/XOxaSU1Atlc)
 
 By [Fabien Potencier](https://connect.sensiolabs.com/profile/fabpot)  
 ![github](icon/github.png) [@fabpot](https://github.com/fabpot)  
@@ -194,7 +194,7 @@ Wait a minute before charging off! When using PHP in this way we have to pay car
 </dl>
 
 [Slides](http://andrewcarteruk.github.io/slides/soup-up-symfony/)  
-~~Video~~
+[Video](https://youtu.be/jNdzwRdEEYQ)
 
 By [Andrew Carter](https://connect.sensiolabs.com/profile/andrewcarteruk)  
 ![github](icon/github.png) [@AndrewCarterUK](https://github.com/AndrewCarterUK)  
@@ -214,7 +214,7 @@ This talk will make the case that your best way to improve your productivity as 
 </dl>
 
 [Slides](http://www.garfieldtech.com/presentations/sfconberlin2016-code-job/)  
-~~Video~~
+[Video](https://youtu.be/vQ0_Pe0ixxs)
 
 By [Larry Garfield](https://connect.sensiolabs.com/profile/crell)  
 ![github](icon/github.png) [@Crell](https://github.com/Crell)  
@@ -234,7 +234,7 @@ Let's have a look at simple techniques that allow us to transform our legacy app
 </dl>
 
 [Slides](https://slidr.io/derrabus/modernizing-with-symfony)  
-~~Video~~
+[Video](https://youtu.be/YzyiZNY9htQ)
 
 By [Alexander M. Turek](https://connect.sensiolabs.com/profile/derrabus)  
 ![github](icon/github.png) [@derrabus](https://github.com/derrabus)  
@@ -250,7 +250,7 @@ By [Alexander M. Turek](https://connect.sensiolabs.com/profile/derrabus)
 </dl>
 
 [Slides](https://slideshare.net/cpsitgmbh/symfonycon-berlin-2016-jenkins-deployment-pipelines)  
-~~Video~~
+[Video](https://youtu.be/9Hv3YCxWaqk)
 
 By [Nicole Cordes](https://connect.sensiolabs.com/profile/ichhabrecht)  
 ![github](icon/github.png) [@IchHabRecht](https://github.com/IchHabRecht)  
@@ -266,7 +266,7 @@ By [Nicole Cordes](https://connect.sensiolabs.com/profile/ichhabrecht)
 </dl>
 
 [Slides](https://speakerdeck.com/dzuelke/kafka-will-get-the-message-across-guaranteed)  
-~~Video~~
+[Video](https://youtu.be/teejLBLu3mI)
 
 By [David Zuelke](https://connect.sensiolabs.com/profile/dzuelke)  
 ![github](icon/github.png) [@dzuelke](https://github.com/dzuelke)  
@@ -284,7 +284,7 @@ I will talk about Symfony related features and will give you some tips and trick
 </dl>
 
 ~~Slides~~  
-~~Video~~
+[Video](https://youtu.be/2kdI2vYpw3Q)
 
 By [Daniel Espendiller](https://connect.sensiolabs.com/profile/haehnchen)  
 ![github](icon/github.png) [@Haehnchen](https://github.com/Haehnchen)  
@@ -300,7 +300,7 @@ By [Daniel Espendiller](https://connect.sensiolabs.com/profile/haehnchen)
 </dl>
 
 [Slides](https://speakerdeck.com/saro0h/symfonycon-berlin-a-year-of-symfony)  
-~~Video~~
+[Video](https://youtu.be/wH6UOzvO2hM)
 
 By [Sarah Khalil](https://connect.sensiolabs.com/profile/saro0h)  
 ![github](icon/github.png) [@saro0h](https://github.com/saro0h)  
@@ -326,7 +326,7 @@ Also the final may reveal a surprise! Stay tuned ;)</dd>
 </dl>
 
 [Slides](https://speakerdeck.com/heahdude/symfony-forms-one-use-case-many-optimizations)  
-~~Video~~
+[Video](https://youtu.be/_gI6q0fXjgc)
 
 By [Jules Pietri](https://connect.sensiolabs.com/profile/heah)  
 ![github](icon/github.png) [@HeahDude](https://github.com/HeahDude)  
@@ -344,7 +344,7 @@ You're coming to SymfonyCon because you are HTTP application developers and I wi
 </dl>
 
 [Slides](https://speakerdeck.com/romain/http-security-headers-as-a-shield-over-your-application)  
-~~Video~~
+[Video](https://youtu.be/zQUu2U7TH0g)
 
 By [Romain Neutron](https://connect.sensiolabs.com/profile/romain)  
 ![github](icon/github.png) [@romainneutron](https://github.com/romainneutron)  
@@ -360,7 +360,7 @@ By [Romain Neutron](https://connect.sensiolabs.com/profile/romain)
 </dl>
 
 ~~Slides~~  
-~~Video~~
+[Video](https://youtu.be/_o-EY6FjlYM)
 
 By [Margaret Staples](https://connect.sensiolabs.com/profile/deadlugosi)  
 ![github](icon/github.png) [@mstaples](https://github.com/mstaples)  
@@ -376,7 +376,7 @@ By [Margaret Staples](https://connect.sensiolabs.com/profile/deadlugosi)
 </dl>
 
 [Slides](https://speakerdeck.com/simensen/how-i-learned-to-stop-wiring-and-love-autowiring-containers-symfonycon-berlin-2016)  
-~~Video~~
+[Video](https://youtu.be/NfXM0D2Suxs)
 
 By [Beau Simensen](https://connect.sensiolabs.com/profile/simensen)  
 ![github](icon/github.png) [@simensen](https://github.com/simensen)  
@@ -392,7 +392,7 @@ By [Beau Simensen](https://connect.sensiolabs.com/profile/simensen)
 </dl>
 
 [Slides](https://slideshare.net/lisachenko/handling-10k-requests-per-second-with-symfony-and-varnish)  
-~~Video~~
+[Video](https://youtu.be/BQhPQuzu-5w)
 
 By [Alexander Lisachenko](https://connect.sensiolabs.com/profile/lisachenko)  
 ![github](icon/github.png) [@lisachenko](https://github.com/lisachenko)  
